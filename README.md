@@ -16,6 +16,8 @@ multiple flags like `-t -v -c`. Only one or none are acceptable. Auto flag is
 also unacceptable.
 
 ## Improvements for the future?
+- [ ] Ncurses may perform unexpectedly in some terminal emulators.
+- [ ] Ncurses may not link during compiling on some systems.
 - [ ] Add color.
 - [ ] Exploding animation.
 - [ ] Add bomb graphic.
