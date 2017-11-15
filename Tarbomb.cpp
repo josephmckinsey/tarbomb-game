@@ -52,6 +52,9 @@ void Tarbomb::setTimeLimit(double timeInput) {
 // Second screen has limited time of 5 seconds. Third has the same. Note that
 // timeout(5000) will carry over to all parts of program.
 void Tarbomb::introduction() {
+    // Prevents echoing and buffering.
+    noecho();
+    cbreak();
     // Set timeout. Clear. Print. Refresh. Get character. Standard for ncurses IO
     timeout(-1);
     clear();

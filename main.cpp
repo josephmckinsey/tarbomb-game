@@ -18,9 +18,6 @@ int main() {
     char tempInputChar;
     // Initialize ncurses screen.
     initscr();
-    // Prevents echoing and buffering.
-    noecho();
-    cbreak();
     // Declare, initialize, and activate bomb.
     Tarbomb bomb;
     bomb.introduction();
