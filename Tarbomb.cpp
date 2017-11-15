@@ -64,7 +64,7 @@ void Tarbomb::introduction() {
     refresh();
     getch();
     
-    timeout(5000);
+    timeout(4000);
     
     clear();
     printw("Here is your filesystem: \n");
@@ -74,6 +74,7 @@ void Tarbomb::introduction() {
     refresh();
     getch();
     
+    timeout(8000);
     // attron and attroff turn on and off attributes for text in between.
     clear();
     printw("You must type in the valid basic extraction (no verbose) tar command in ");
