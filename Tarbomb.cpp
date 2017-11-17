@@ -1,4 +1,4 @@
-/* CSCI261 Assignment7: Tarbomb Class
+/* CSCI261B Assignment7: Tarbomb Class
  *
  * Description: Definition file for Tarbomb Class. Handles ncurses input/output.
  * Uses timing from chrono to only accept input for a limited time. Evaluates
