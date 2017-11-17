@@ -1,4 +1,4 @@
-/* CSCI261 Assignment 7: Magic Item: The Tar Bomb
+/* CSCI261B Assignment 7: Magic Item: The Tar Bomb
 *
 * Description: User must type a valid tar command to stop the bomb in 10
 * seconds. No googling. Program must be compiled with -lncurses option in g++ or
