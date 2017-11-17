@@ -1,4 +1,4 @@
-/* CSCI261 Assignment7: Tarbomb Class
+/* CSCI261B Assignment7: Tarbomb Class
  *
  * Description: Declaration file for Tarbomb Class
  *
