@@ -12,7 +12,7 @@ Windows currently.
 
 ## Acceptable inputs.
 `tar` must be used at the start. Flags are not required and it will accept
-multiple flags like `-t -v -c`. Only one or none are acceptable. Auto flag is
+multiple flags like `-t -v -c`. Only one or no flags are acceptable. Auto flag is
 also unacceptable.
 
 ## Improvements for the future?
